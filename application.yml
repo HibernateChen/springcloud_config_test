@@ -1,9 +1,4 @@
 spring: 
-  profiles: 
-    active: 
-    - dev
----
-spring: 
   prodiles: dev  #开发环境
   application: 
     name: microservicecloud-config-atguigu-dev
